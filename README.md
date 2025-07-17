@@ -2,14 +2,14 @@
 ![madep](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=700&height=70&lines=WELCOME+ALL+%2C+MY+NAME+IS+EDY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=700&height=70&lines=WELCOME+ALL+%2C+MY+NAME+IS+FAJAR+KURNIA" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm **Edy Syafrianto**, a passionate **Software Developer** and **Web/App Creator** with expertise in crafting **robust and intuitive digital solutions**.
+Hello! I'm **Fajar Kurnia Putra**, a passionate **Software Developer** and **Web/App Creator** with expertise in crafting **robust and intuitive digital solutions**.
 
 With a strong background in both web and application development, I focus on building **efficient and functional solutions** that provide the best user experience. I thrive on transforming innovative ideas into reality through lines of code.
 
@@ -83,7 +83,7 @@ Feel free to explore my repositories to see some of my latest projects and contr
 
 ## 🗣️ Human Languages
 
-* **Indonesian**: Native Speaker
+* **Indonesian**: Native Speaker  
 * **English**: Professional Working Proficiency
 
 ---
