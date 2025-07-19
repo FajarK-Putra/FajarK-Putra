@@ -1,5 +1,4 @@
-![made](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![madep](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
+
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Fajar Kurnia</h1>
