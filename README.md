@@ -1,113 +1,63 @@
-![made](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![madep](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
-![Header](./github-header-image.png)
+<h1 align="center">Hi 👋, I'm Fajar Kurnia</h1>
+<h3 align="center">An Informatics student passionate about coding, UI/UX, and building impactful digital solutions</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=700&height=70&lines=WELCOME+ALL+%2C+MY+NAME+IS+FAJAR+KURNIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" />
 </p>
 
 ---
 
-## 👋 About Me
+### 👨‍💻 About Me
 
-Hello! I'm **Fajar Kurnia Putra**, a passionate **Software Developer** and **Web/App Creator** with expertise in crafting **robust and intuitive digital solutions**.
-
-With a strong background in both web and application development, I focus on building **efficient and functional solutions** that provide the best user experience. I thrive on transforming innovative ideas into reality through lines of code.
-
-Feel free to explore my repositories to see some of my latest projects and contributions to the world of software development!
+I am an active student majoring in **Informatics** with a strong focus on programming. I have experience working on various projects as a **Frontend**, **Backend**, and **Fullstack Developer**, and also have a deep interest in **UI/UX Design**.  
+I continuously improve my technical and design skills to build **functional** and **user-friendly digital solutions**.
 
 ---
 
-## 💻 Tech Stack & Tools
+### 🛠️ Tech Stack
 
-### 🌐 Programming Languages
+**💡 Programming Languages**  
+`Python` `JavaScript` `PHP` `C++` `Dart` `Go`
 
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge"/>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
+**🧱 Frameworks & Libraries**  
+`Flask` `Laravel` `Node.js` `React` `Flutter` `Bootstrap` `OpenCV`
 
-### 🚀 Frameworks, Platforms & Libraries
+**🎨 Design Tools**  
+`Figma` `Canva`
 
-<p align="left">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+**🗄️ Databases**  
+`MongoDB` `MySQL`
 
-### 🗄️ Databases
+**💻 Operating Systems**  
+`Windows` `Linux` `Android` `Ubuntu`
 
-<p align="left">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**🚀 Deployment Platforms**  
+`Vercel`
 
-### 🎨 Design Tools
+**🔧 Version Control**  
+`Git` `GitHub`
 
-<p align="left">
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+**🌍 Languages**  
+- 🇮🇩 Indonesian — Native  
+- 🇬🇧 English — Professional Working Proficiency
 
-### 🖥️ IDEs / Editors
+---
 
-<p align="left">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge"/>
-</p>
+### 📈 GitHub Stats
 
-### 💻 Operating Systems
-
-<p align="left">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
-</p>
-
-### 🔗 Version Control
-
-<p align="left">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🗣️ Human Languages
-
-* **Indonesian**: Native Speaker  
-* **English**: Professional Working Proficiency
-
----
-
-## 📱 Let's Connect!
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fjrkurniaa_/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/fjrkurniaa_)
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-## 🎮 My Hobbies
-
-<p align="left">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  <img alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white">
-</p>
-
----
-
-## 🪙 Favorite Cryptocurrencies
-
-<p align="left">
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-</p>
+### ✨ Fun Fact
+> I enjoy both building clean backend systems and designing beautiful user interfaces — making me feel at home in both code and design tools!
