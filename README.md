@@ -1,6 +1,6 @@
 ![made](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![madep](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
-
+![Header](./github-header-image.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=700&height=70&lines=WELCOME+ALL+%2C+MY+NAME+IS+FAJAR+KURNIA" alt="Typing SVG" />
 </p>
