@@ -12,6 +12,8 @@
 I am an active student majoring in **Informatics** with a strong focus on programming. I have experience working on various projects as a **Frontend**, **Backend**, and **Fullstack Developer**, and also have a deep interest in **UI/UX Design**.  
 I continuously improve my technical and design skills to build **functional** and **user-friendly digital solutions**.
 
+🔗 **Check out my portfolio**: [www.fajarkurnia.web.id](https://www.fajarkurnia.web.id)
+
 ---
 
 ## 💻 Tech Stack & Tools
@@ -68,16 +70,18 @@ I continuously improve my technical and design skills to build **functional** an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarK-Putra&layout=compact&theme=radical" alt="FajarK-Putra's Top Languages" />
 </p>
 
-
 ---
 
 ### 📫 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fjrkurniaa_/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/fjrkurniaa_)
-<!-- Tambahkan LinkedIn atau Email jika tersedia -->
+[![Website](https://img.shields.io/badge/Website-www.fajarkurnia.web.id-blue?style=flat-square&logo=google-chrome)](https://www.fajarkurnia.web.id)
+[![Instagram](https://img.shields.io/badge/Instagram-fjrkurniaa_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fjrkurniaa_/)
+[![Twitter](https://img.shields.io/badge/Twitter-@fjrkurniaa_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/fjrkurniaa_)
+
+<!-- Tambahkan LinkedIn dan Email jika tersedia -->
 
 ---
 
 ### ✨ Fun Fact
+
 > I enjoy both building clean backend systems and designing beautiful user interfaces — making me feel at home in both code and design tools!
