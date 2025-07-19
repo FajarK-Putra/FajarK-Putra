@@ -1,3 +1,7 @@
+![made](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![madep](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Fajar Kurnia</h1>
 <h3 align="center">An Informatics student passionate about coding, UI/UX, and building impactful digital solutions</h3>
 
@@ -14,32 +18,49 @@ I continuously improve my technical and design skills to build **functional** an
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack & Tools
 
-**💡 Programming Languages**  
-`Python` `JavaScript` `PHP` `C++` `Dart` `Go`
+### 🌐 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**🧱 Frameworks & Libraries**  
-`Flask` `Laravel` `Node.js` `React` `Flutter` `Bootstrap` `OpenCV`
+### 🚀 Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**🎨 Design Tools**  
-`Figma` `Canva`
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🗄️ Databases**  
-`MongoDB` `MySQL`
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-**💻 Operating Systems**  
-`Windows` `Linux` `Android` `Ubuntu`
+### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**🚀 Deployment Platforms**  
-`Vercel`
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**🔧 Version Control**  
-`Git` `GitHub`
+---
 
-**🌍 Languages**  
-- 🇮🇩 Indonesian — Native  
-- 🇬🇧 English — Professional Working Proficiency
+## 🗣 Human Languages
+
+- 🇮🇩 **Indonesian** — Native Speaker  
+- 🇬🇧 **English** — Professional Working Proficiency
 
 ---
 
@@ -54,8 +75,10 @@ I continuously improve my technical and design skills to build **functional** an
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fjrkurniaa_/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/fjrkurniaa_)
+<!-- Tambahkan LinkedIn atau Email jika tersedia -->
 
 ---
 
