@@ -1,6 +1,3 @@
-
-![Header](./github-header-image.png)
-
 <h1 align="center">Hi 👋, I'm Fajar Kurnia</h1>
 <h3 align="center">An Informatics student passionate about coding, UI/UX, and building impactful digital solutions</h3>
 
@@ -66,9 +63,9 @@ I continuously improve my technical and design skills to build **functional** an
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FajarK-Putra&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarK-Putra&layout=compact&theme=radical" />
 </p>
 
 ---
