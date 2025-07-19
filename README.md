@@ -63,10 +63,11 @@ I continuously improve my technical and design skills to build **functional** an
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FajarK-Putra&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FajarK-Putra&show_icons=true&theme=radical" alt="FajarK-Putra's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarK-Putra&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarK-Putra&layout=compact&theme=radical" alt="FajarK-Putra's Top Languages" />
 </p>
+
 
 ---
 
