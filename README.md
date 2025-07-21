@@ -57,8 +57,8 @@ I continuously improve my technical and design skills to build **functional** an
 
 ## 🗣 Human Languages
 
-- 🇮🇩 **Indonesian** — Native Speaker  
-- 🇬🇧 **English** — Professional Working Proficiency
+- 🇮🇩 **Indonesian** — Basic / Intermediate
+- 🇬🇧 **English** — Learning & improving
 
 ---
 
